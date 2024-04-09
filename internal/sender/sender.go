@@ -9,7 +9,7 @@ import (
 
 const (
 	defaultTimeout    = time.Second * 5
-	defaultNumPackets = 2
+	defaultNumPackets = 50
 	defaultPacketSize = 16
 )
 
